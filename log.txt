@@ -1,0 +1,3 @@
+error: failed login
+success: ok
+error: disk full
